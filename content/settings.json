@@ -1,0 +1,10 @@
+{
+  "title": "WebApi Notes",
+  "url": "webapi.njkwilson.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "njkwilson/netlify.njkwilson-webapi",
+  "twitter": "@njkwilson"
+}
